@@ -1,0 +1,134 @@
+[
+    {
+        "id": "s-1",
+        "key": "shoe-1",
+        "name": "Running Shoes",
+        "product_description": "A pair of blue running shoes. Isolated on a white background.",
+        "price": "99.99",
+        "product_thumbnail": "https://i.ibb.co/VLZ5MGL/shoe1.jpg",
+        "brand_name": "Bata",
+        "product_size": "44",
+        "product_stock": "96"
+    },
+    {
+        "id": "s-2",
+        "key": "shoe-2",
+        "name": "Sneakers with clipping",
+        "product_description": "Sport shoes isolated on white, with clipping path.",
+        "price": "119.99",
+        "product_thumbnail": "https://i.ibb.co/pnRVdzy/shoe2.jpg",
+        "brand_name": "Lotto",
+        "product_size": "42",
+        "product_stock": "50"
+    },
+    {
+        "id": "s-3",
+        "key": "shoe-3",
+        "name": "There's no tripping",
+        "product_description": "Closeup shot of a sporty man tying his shoelaces while exercising outdoors",
+        "price": "112.99",
+        "product_thumbnail": "https://i.ibb.co/8bDYDdj/shoe3.jpg",
+        "brand_name": "Apex",
+        "product_size": "41",
+        "product_stock": "65"
+    },
+    {
+        "id": "s-4",
+        "key": "shoe-4",
+        "name": "Sports shoe",
+        "product_description": "Sports shoe isolated on the white background",
+        "price": "132.99",
+        "product_thumbnail": "https://i.ibb.co/X7tBWvK/shoe4.jpg",
+        "brand_name": "Zills",
+        "product_size": "44",
+        "product_stock": "98"
+    },
+    {
+        "id": "s-5",
+        "key": "shoe-5",
+        "name": "Pair of blue sporty shoes",
+        "product_description": "pair of blue sporty shoes for kid on white",
+        "price": "89.99",
+        "product_thumbnail": "https://i.ibb.co/ZYLpyZ1/shoe5.jpg",
+        "brand_name": "Apex",
+        "product_size": "43",
+        "product_stock": "87"
+    },
+    {
+        "id": "s-6",
+        "key": "shoe-6",
+        "name": "Blue sporty shoe",
+        "product_description": "blue sporty shoe for kid on white background",
+        "price": "87.99",
+        "product_thumbnail": "https://i.ibb.co/NsJTJb1/shoe6.jpg",
+        "brand_name": "Bata",
+        "product_size": "40",
+        "product_stock": "89"
+    },
+    {
+        "id": "s-7",
+        "key": "shoe-7",
+        "name": "Blue sneakers",
+        "product_description": "blue sneakers path isolated on white",
+        "price": "98.99",
+        "product_thumbnail": "https://i.ibb.co/hddQh0W/shoe7.jpg",
+        "brand_name": "Zills",
+        "product_size": "34",
+        "product_stock": "76"
+    },
+    {
+        "id": "s-8",
+        "key": "shoe-8",
+        "name": "Shoes for men",
+        "product_description": "shoes for men and kids on white background family concept",
+        "price": "90.99",
+        "product_thumbnail": "https://i.ibb.co/mBDrD94/shoe8.jpg",
+        "brand_name": "Apex",
+        "product_size": "44",
+        "product_stock": "76"
+    },
+    {
+        "id": "s-9",
+        "key": "shoe-9",
+        "name": "Baby sport shoes",
+        "product_description": "Baby sport shoes pair on white background",
+        "price": "94.99",
+        "product_thumbnail": "https://i.ibb.co/TbnvSd6/shoe9.jpg",
+        "brand_name": "Lotto",
+        "product_size": "44",
+        "product_stock": "98"
+    },
+    {
+        "id": "s-10",
+        "key": "shoe-10",
+        "name": "Walking male sneakers",
+        "product_description": "Walking male sneakers. Isolated on a white background.",
+        "price": "45.99",
+        "product_thumbnail": "https://i.ibb.co/pLzWyvv/shoe10.jpg",
+        "brand_name": "Adidas",
+        "product_size": "42",
+        "product_stock": "65"
+    },
+    {
+        "id": "s-11",
+        "key": "shoe-11",
+        "name": "Blue curved sport shoes",
+        "product_description": "Blue curved sport shoes for running",
+        "price": "54.99",
+        "product_thumbnail": "https://i.ibb.co/rMQ8Pyp/shoe11.jpg",
+        "brand_name": "Apex",
+        "product_size": "41",
+        "product_stock": "43"
+    },
+    {
+        "id": "s-12",
+        "key": "shoe-12",
+        "name": "Sport shoes isolated",
+        "product_description": "Unbranded modern sneakers isolated on a white background. Blue sport shoes.",
+        "price": "78.99",
+        "product_thumbnail": "https://i.ibb.co/PhTSkN0/shoe12.jpg",
+        "brand_name": "Lotto",
+        "product_size": "44",
+        "product_stock": "87"
+    }
+]
