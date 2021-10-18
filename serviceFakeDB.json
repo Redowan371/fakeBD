@@ -1,0 +1,122 @@
+[
+    {
+        "id": "hp-1",
+        "key": "hpsvc-1",
+        "name": "Emergency Care",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/d6pGhmc/ambulance.png",
+        "service_charge": "234",
+        "service_ratings": "5"
+    },
+    {
+        "id": "hp-2",
+        "key": "hpsvc-2",
+        "name": "Call Center 24/7",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/5c7Ws9Y/call-center.png",
+        "service_charge": "Free",
+        "service_ratings": "4.5"
+    },
+    {
+        "id": "hp-3",
+        "key": "hpsvc-3",
+        "name": "Blood Test",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "",
+        "service_charge": "456",
+        "service_ratings": "4"
+    },
+    {
+        "id": "hp-4",
+        "key": "hpsvc-4",
+        "name": "Outdoor Checkup",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/0jKCK68/stethoscope.png",
+        "service_charge": "145",
+        "service_ratings": "3.5"
+    },
+    {
+        "id": "hp-5",
+        "key": "hpsvc-5",
+        "name": "Cardiac Surgery",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/RPtBGJ2/cardiac.png",
+        "service_charge": "840",
+        "service_ratings": "4"
+    },
+    {
+        "id": "hp-6",
+        "key": "hpsvc-6",
+        "name": "Dental Care",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/QFtYfdN/tooth.png",
+        "service_charge": "556",
+        "service_ratings": "4.5"
+    },
+    {
+        "id": "hp-7",
+        "key": "hpsvc-7",
+        "name": "Ophthalmology",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/S0b4S2n/eye-g75be918db-640.png",
+        "service_charge": "447",
+        "service_ratings": "5"
+    },
+    {
+        "id": "hp-8",
+        "key": "hpsvc-8",
+        "name": "Heart disease",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/17FPsn3/heart.png",
+        "service_charge": "327",
+        "service_ratings": "3.8"
+    },
+    {
+        "id": "hp-9",
+        "key": "hpsvc-9",
+        "name": "Hepatology",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/Gpcm4MT/liver.png",
+        "service_charge": "673",
+        "service_ratings": "5"
+    },
+    {
+        "id": "hp-10",
+        "key": "hpsvc-10",
+        "name": "Huntington's",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/MS198jj/brain.png",
+        "service_charge": "583",
+        "service_ratings": "4.5"
+    },
+    {
+        "id": "hp-11",
+        "key": "hpsvc-11",
+        "name": "Otology",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/M8ZKs6h/ear.png",
+        "service_charge": "583",
+        "service_ratings": "5"
+    },
+    {
+        "id": "hp-12",
+        "key": "hpsvc-12",
+        "name": "Child Care's",
+        "short_description": "Blue jeans trouser isolated on the white background.Back view.Blue jeans trouser isolated on the white background.Back view.",
+        "long_description": "",
+        "product_thumbnail": "https://i.ibb.co/BBWBPyT/child.jpg",
+        "service_charge": "445",
+        "service_ratings": "4.5"
+    }
+]
